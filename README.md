@@ -2,6 +2,8 @@
 
 OS(Open Source) GNSS(Global Navigation Satellite System) L1C/A(L1-Coarse Acquisition) SDR(Software-Defined Radio) CMEX Edit
 
+**The program code will be committed later.**
+
 ## Repository Info
 
 OS GNSS L1C/A SDR CMEX Edit is SDR based on [OS GNSS L1C/A SDR](https://github.com/gnsscusdr/CU-SDR-Collection).
