@@ -22,6 +22,9 @@ OS GNSS L1C/A SDR is configured with 5 main block, initialization, **acquisition
 
 - MATLAB Benchmark Result
 
+![](./Image/MATLAB%20Bench%201.png)
+![](./Image/MATLAB%20Bench%202.png)
+
 ## CMEX build
 
 - [cmex_acquisition.c](./Non-Assist/Acquisition/cmex_acquisition.c)
