@@ -1,6 +1,6 @@
 # GNSS L1C/A SDR
 
-OS(Open Source) GNSS(Global Navigation Satellite System) L1C/A(L1-Coarse Acquisition) SDR(Software-Defined Radio) CMEX Edit
+OS (Open Source) GNSS (Global Navigation Satellite System) L1C/A (L1 Coarse Acquisition) SDR (Software-Defined Radio) CMEX Edit
 
 **The program code will be committed later.**
 
